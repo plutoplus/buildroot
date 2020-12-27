@@ -4,8 +4,8 @@
 #
 ################################################################################
 
-DUMP1090_VERSION = bff92c4ad772a0a8d433f788d39dae97e00e4dbe
-DUMP1090_SITE = $(call github,MalcolmRobb,dump1090,$(DUMP1090_VERSION))
+DUMP1090_VERSION = 5974241e2f3e208409c2be8ba21a01eeea8ea104
+DUMP1090_SITE = $(call github,howard0su,dump1090,$(DUMP1090_VERSION))
 DUMP1090_LICENSE = BSD-3-Clause
 # no real license file
 DUMP1090_LICENSE_FILES = anet.h
